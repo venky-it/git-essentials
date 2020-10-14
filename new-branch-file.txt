@@ -1,3 +1,5 @@
+New branch file shows in both master and new branch.
+
 this is new file added under new branch to test.. 
 lets learn new branching 
 commands
