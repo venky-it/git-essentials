@@ -1,0 +1,8 @@
+this is new file added under new branch to test.. 
+lets learn new branching 
+commands
+
+git branch
+git checkout -b <branchname>
+git status
+
